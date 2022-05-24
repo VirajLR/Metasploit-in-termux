@@ -27,6 +27,7 @@ clear;echo "Done...."
 <pre>
 Finally go to home cd
 Now run msfconsole 👍
+*** Powered by VirajLR ***
 </pre>
 <div class="row">
   <div class="column">
